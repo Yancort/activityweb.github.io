@@ -67,7 +67,8 @@ figure {
     height: 70%;
     margin: 30% 0 0 0;
     background-color: aliceblue;
-    padding: 0 0 0 12%;
+    color: black;
+    font-size: large;
 }
 
 h1{
